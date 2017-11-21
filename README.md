@@ -1,10 +1,4 @@
-# Fortress 4.1
 
-[![Join the chat at https://chat.userfrosting.com/channel/support](https://demo.rocket.chat/images/join-chat.svg)](https://chat.userfrosting.com/channel/support)
-
-[![Click here to lend your support to: UserFrosting: A secure, modern user management system for PHP and make a donation at pledgie.com !](https://pledgie.com/campaigns/29583.png?skin_name=chrome)](https://pledgie.com/campaigns/29583)
-
-### By [Alex Weissman](https://alexanderweissman.com)
 
 Copyright (c) 2015-2017
 
