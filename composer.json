@@ -1,16 +1,10 @@
 {
-    "name": "userfrosting/fortress",
+    "name": "anders/fortress",
     "type": "library",
     "description": "A PHP library for sanitizing, validating, and canonicalizing HTTP request data against a JSON Schema",
     "keywords": ["php validation", "php sanitization"],
-    "homepage": "https://github.com/userfrosting/fortress",
+    "homepage": "https://github.com/oskonnikov/fortress",
     "license" : "MIT",
-    "authors" : [
-        {
-            "name": "Alexander Weissman",
-            "homepage": "https://alexanderweissman.com"
-        }
-    ],
     "require": {
         "php": ">=5.4.0",
         "ezyang/htmlpurifier" : ">=4.6.0",
