@@ -1,13 +1,7 @@
 # Fortress
-
-### By Alex Weissman
-
 Copyright (c) 2015-2016
-
 A schema-driven system for whitelisting and validating raw user input.
-
 ## Introduction
-
 Data from the outside world is the Achilles' heel of modern interactive web services and applications.  Code injection, cross-site scripting (XSS), CSRF, and many other types of malicious attacks are successful when a web application accepts user input that it shouldn't have, or fails to neutralize the damaging parts of the input.  Even non-malicious users can inadvertently submit something that breaks your web service, causing it to behave in some unexpected way.
 
 For the sake of both security and quality user experience, it is important for a web developer to do two things:
